@@ -20,14 +20,21 @@ Frontend - react
 ## Endpoints
 
 1. http://localhost:8080/api/v1/getCurrencyList
-    Method: GET  
+
+    Method: GET
+
     headers: {Accept:application/json,  Content-Type:application/json}
+    
     return the list of currency names and code
 
 2. http://localhost:8080/api/v1/getRate
+
     Method: POST
+    
     headers: {Accept:application/json,  Content-Type:application/json}
+    
     body: {base:string, quote:string} 
+    
     return the quote rate of two currencies
 
 
