@@ -34,3 +34,8 @@ build/
 
 ### env file ###
 .env
+
+### front end file ###
+/FrontEnd/node_modules
+/FrontEnd/.next
+/FrontEnd/coverage
