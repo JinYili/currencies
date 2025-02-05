@@ -1,0 +1,9 @@
+{
+    "currency_exchange": "Currency Exchange" ,
+    "convert":"Convert",
+    "loading":"Loading",
+    "convert_error":"Please input amount and select two currencies or the selected currency(s) is not supported by free key",
+    "from":"From",
+    "to":"To",
+    "amount":"Amount"
+}

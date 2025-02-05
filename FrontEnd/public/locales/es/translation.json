@@ -1,0 +1,9 @@
+{
+    "currency_exchange": "Cambio De Divisas",
+     "convert":"Convertir",
+     "loading":"cargando",
+     "convert_error":"Ingrese el monto y seleccione dos monedas o las monedas seleccionadas no son compatibles con la clave gratuita",
+     "from":"De",
+     "to":"A",
+     "amount":"Cantidad"
+}
