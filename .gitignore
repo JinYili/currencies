@@ -35,3 +35,6 @@ build/
 ### env file ###
 .env
 /FrontEnd/README.md
+/FrontEnd/node_modules
+/FrontEnd/.next
+/FrontEnd/coverage
